@@ -1,6 +1,6 @@
-:HL["/kim-seonil-portfolio_HLL/_next/static/chunks/1tdkc2rzyp38r.css","style"]
+:HL["/kim-seonil-portfolio_HLL/_next/static/chunks/0-zkl85x6ovf8.css","style"]
 :HL["/kim-seonil-portfolio_HLL/fonts/Pretendard-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/fonts/Pretendard-SemiBold.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/fonts/Pretendard-Bold.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/profile-kim-seonil.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"resume","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"qZfWihynSPZ8ttrckwjEZ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"resume","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"bbiFnJEkEIubYrkm3REG5"}
