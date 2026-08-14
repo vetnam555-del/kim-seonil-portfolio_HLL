@@ -3,6 +3,6 @@
 :HL["/kim-seonil-portfolio_HLL/fonts/Pretendard-SemiBold.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/fonts/Pretendard-Bold.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/profile-kim-seonil.jpeg","image"]
-:HL["/kim-seonil-portfolio_HLL/evidence/youtube-performance.webp","image"]
+:HL["/kim-seonil-portfolio_HLL/evidence/dyson-media-optimization.png","image"]
 :HL["/kim-seonil-portfolio_HLL/evidence/jestina-performance.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"bbiFnJEkEIubYrkm3REG5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"YxYwKDN3VeDk8nM1lGfNg"}
