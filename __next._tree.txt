@@ -5,4 +5,4 @@
 :HL["/kim-seonil-portfolio_HLL/profile-kim-seonil.jpeg","image"]
 :HL["/kim-seonil-portfolio_HLL/evidence/youtube-performance.webp","image"]
 :HL["/kim-seonil-portfolio_HLL/evidence/jestina-performance.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"uRtZf2qQXc5aMop1xzipS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"qZfWihynSPZ8ttrckwjEZ"}
