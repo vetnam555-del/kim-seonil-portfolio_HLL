@@ -6,4 +6,4 @@
 :HL["/kim-seonil-portfolio_HLL/evidence/dyson-media-optimization.png","image"]
 :HL["/kim-seonil-portfolio_HLL/evidence/jestina-performance.webp","image"]
 :HL["/kim-seonil-portfolio_HLL/evidence/hll-mop-case.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"7_Auk1kEzqqoosYb03n8p"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"mf_FbP-5lKvttni6nPWCO"}
