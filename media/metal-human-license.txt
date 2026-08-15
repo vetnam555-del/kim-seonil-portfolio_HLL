@@ -1,9 +1,0 @@
-GetLayers - metalHuman
-
-Source master supplied by the user from metal-human.zip.
-The source archive states that the 4K video and 2K poster contain no watermark.
-Copyright: GetLayers - https://getlayers.ai
-
-Portfolio derivatives:
-- metal-human-loop.mp4: web-optimized H.264 loop
-- metal-human-poster.webp: web-optimized poster
