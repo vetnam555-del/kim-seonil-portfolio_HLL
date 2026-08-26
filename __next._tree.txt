@@ -5,4 +5,4 @@
 :HL["/kim-seonil-portfolio_HLL/fonts/Pretendard-Bold.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/fonts/JetBrainsMono-Var.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_HLL/profile-kim-seonil.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"6Wzk3aEJvbHyGY8GGXoBt"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"u2RRbZjq_lV0dd2qsDfvH"}
